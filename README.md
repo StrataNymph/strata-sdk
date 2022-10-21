@@ -1,1 +1,1 @@
-# strata-sdk-
+# strata-sdk
